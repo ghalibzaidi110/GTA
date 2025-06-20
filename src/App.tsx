@@ -1,4 +1,4 @@
-import GTA from './GTA';
+import GTA from './GTA-New';
 
 function App() {
   return (
